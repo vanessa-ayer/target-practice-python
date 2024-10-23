@@ -15,3 +15,7 @@ This is a simple target practice game built using Python and Pygame. The objecti
  - Collision detection between the crosshair and targets
  - Sound effects when shooting
  - Smooth gameplay at 60 frames per second
+
+### Demo
+
+![demo](target-practice-python-demo.gif)
